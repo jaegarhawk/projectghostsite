@@ -3,9 +3,10 @@ title: Keeping Tempo
 layout: post
 date: 2026-04-08
 comments: false
+excerpt_separator: <!--more-->
 ---
-Made a lot of progress over the last few months.   
-
+Made a lot of progress.
+<!--more-->   
 It’s best to keep a balance of getting things prototyped quickly, while also keeping code clean and organized to build upon. Even still, as the project gets bigger, errors and bugs are bound to show up and the limitations of old systems begin to showcase themselves.  
 
 Enemy spawning was a problem area. Originally setup in Blueprints, battles were triggered through player overlap with an invisible collision box. A fairly standard implementation, it was working as needed. At least until I needed multiple character types spawning in groups over multiple waves of enemies. Adding onto my old system was quickly making the code convoluted and messier.  
