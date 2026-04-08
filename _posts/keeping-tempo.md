@@ -7,9 +7,8 @@ comments: false
 Made a lot of progress over the last few months.   
 
 It’s best to keep a balance of getting things prototyped quickly, while also keeping code clean and organized to build upon. Even still, as the project gets bigger, errors and bugs are bound to show up and the limitations of old systems begin to showcase themselves.  
-  
-My enemy spawning was a problem area. Originally setup in Blueprints, battles were triggered through player overlap with an invisible collision box. A fairly standard implementation, it was working as needed. At least until I needed multiple character types spawning in groups over multiple waves of enemies. Adding onto my old system was quickly making the code convoluted and messier.  
 
+Enemy spawning was a problem area. Originally setup in Blueprints, battles were triggered through player overlap with an invisible collision box. A fairly standard implementation, it was working as needed. At least until I needed multiple character types spawning in groups over multiple waves of enemies. Adding onto my old system was quickly making the code convoluted and messier.  
 
 ![](/assets/images/OG_SpawnSystem.png)
 
