@@ -21,7 +21,7 @@ The game will have several non-player characters in addition to enemies, so the 
 
 ![](/assets/images/2026/GG_Concept_Art_kirin_draws.png)
 
-Gunmetal Ghost’s world is one that’s been bloodied and weathered years of paranormal terror, but unbowed. I’ve known since early on that I wanted character designs to aim for a semi-realistic, backed by bold character designs that placed emphasis on worn materials and restrained expressiveness. I want the characters to feel like products of a hostile, decaying world, so I’ve been getting as much practice as I can to deliver that experience.
+Gunmetal Ghost’s world is one that’s been bloodied and weathered through years of paranormal terror, but unbowed. I’ve known since early on that I wanted character designs to aim for a semi-realistic, backed by bold character designs that placed emphasis on worn materials and restrained expressiveness. I want the characters to feel like products of a hostile, decaying world, so I’ve been getting as much practice as I can to deliver that experience.
 
 ![](/assets/images/2026/BlenderPractice2.png)
 
