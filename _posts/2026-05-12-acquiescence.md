@@ -3,9 +3,10 @@ title: Acquiescence
 layout: post
 date: 2026-05-12
 comments: false
+excerpt_separator: <!--more-->
 ---
 It’s May already.
-
+<!--more--> 
 The training arena’s been progressing nicely. Still some bugs to sort out, but I’m really pleased with how versatile it’s shaping up to be. With more polish, it may prove be useful for a future combat demo.
 
 [https://youtu.be/F_XObGIjb3U](https://youtu.be/F_XObGIjb3U)
